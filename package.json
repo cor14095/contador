@@ -13,8 +13,8 @@
     "webpack",
     "babel"
   ],
-  "author": "dasosjt",
-  "license": "ISC",
+  "author": "Perry",
+  "license": "MIT",
   "dependencies": {
     "immutable": "^3.8.1",
     "mousetrap": "^1.6.1",
